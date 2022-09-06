@@ -1,2 +1,2 @@
 #!/bin/bash
-PATH=$PHAT:/action
+echo=$PHAT:/action
